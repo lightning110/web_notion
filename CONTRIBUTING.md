@@ -5,7 +5,7 @@
 - [Adding localizations](#adding-localizations)
 
 Thanks for considering to contribute!
-
+//
 ## Setup
 
 To contribute to NotionNext, follow these steps:
